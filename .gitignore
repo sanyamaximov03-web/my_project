@@ -1,0 +1,6 @@
+*csv
+*pkl
+*.venv*
+*virtual_env*
+insisible*
+current/*
