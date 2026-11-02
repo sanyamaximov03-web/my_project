@@ -11,13 +11,13 @@ my_proj/
 |______.git  
 |______.gitignore  
 |______data/  
-|******|___data.csv  
-|******|___clean_data.pkl  
+|&nbsp;|___data.csv  
+||___clean_data.pkl  
 |______eda/  
-|******|__graph1.png  
-|******|__graph2.png  
-|******.  
-|******|__graph7.png  
+||__graph1.png  
+||__graph2.png  
+|.  
+||__graph7.png  
 |______README.md  
 |______requirements.txt  
 
