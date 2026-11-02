@@ -6,7 +6,7 @@
 Используется датасет Car Price prediction.
 
 ## Структура проекта
-
+'''
 my_proj/  
 |______.venv_my_proj  
 |______.git  
@@ -21,3 +21,4 @@ my_proj/
 |      |__graph7.png  
 |______README.md  
 |______requirements.txt  
+'''
