@@ -4,3 +4,6 @@
 *virtual_env*
 insisible*
 current/*
+mlflow/mlruns.db
+mlflow/artifacts
+

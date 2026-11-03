@@ -56,3 +56,27 @@ my_proj/
 # Интерактивный график
 
 Этот график тоже представляет зависимость Present_Price от Selling_Price, но при этом здесь можно узнать и другие характеристики автомобиля
+
+# ЛР №2
+
+Для запуска MLflow нужно перейти в корневую папку прокта
+```text
+cd /home/mainuser/my_proj
+```
+Активировать виртуальное окружение
+```text
+source .venv_my_proj/bin/activate
+```
+Перейти в папку MLflow и запустить скрипт
+```text
+cd mlflow
+bash start_mlflow.sh
+```
+Открыть веб-интерфейс MLflow
+http://127.0.0.1:5000/
+
+Для работы mlflow необходимы зависимости из requirements.txt
+ В результате исследования было произведено 4 эксперимента
+ Самым эффективным оказался Feature Selection Random Forest использующая отбор признаков методом SequentialFeatureSelector
+
+ 
