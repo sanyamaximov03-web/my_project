@@ -5,5 +5,5 @@
 insisible*
 current/*
 mlflow/mlruns.db
-mlflow/artifacts
+mlflow/mlartifacts
 
