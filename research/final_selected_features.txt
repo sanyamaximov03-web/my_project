@@ -1,0 +1,6 @@
+num__Year
+num__Present_Price
+num__Owner
+cat__Car_Name
+cat__Transmission
+bin__Car_Age

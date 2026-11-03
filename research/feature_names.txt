@@ -1,0 +1,11 @@
+num__Year
+num__Present_Price
+num__Driven_kms
+num__Owner
+num__Car_Age
+cat__Car_Name
+cat__Fuel_Type
+cat__Selling_type
+cat__Transmission
+bin__Driven_kms
+bin__Car_Age
