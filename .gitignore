@@ -6,4 +6,7 @@ insisible*
 current/*
 mlflow/mlruns.db
 mlflow/mlartifacts
+__pycache__/
+*.py[cod]
+services/moedls/model.pkl
 
