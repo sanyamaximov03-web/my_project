@@ -1,3 +1,48 @@
+#Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_chekpoints/
+.pytest_cache/
+
+# Virtual environment
+.venv/
+.venv_my_proj/
+venv/
+env/
+
+#Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+#MLflow local data
+mlruns/
+mlartifacts/
+mlflow.db
+
+# Trained model
+services/models/model.pkl
+
+# Grafana local data
+services/grafana/data/
+services/grafana/plugins/
+
+# Prometheus local data
+services/prometheus/data
+
+# Docker and temporary files
+*.pid
+*.tmp
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+
 *csv
 *pkl
 *.venv*
@@ -8,5 +53,5 @@ mlflow/mlruns.db
 mlflow/mlartifacts
 __pycache__/
 *.py[cod]
-services/moedls/model.pkl
+services/models/model.pkl
 
